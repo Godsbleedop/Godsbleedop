@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Quadras</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **C#, Java**
+- 🌱 I’m currently learning **C#, Java,Python**
 
 - 🤝 I’m looking for help with **Intrusion detection system with machine learning**
 
