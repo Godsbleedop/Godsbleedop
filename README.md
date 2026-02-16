@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aaron Quadras</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aaron </h1>
+<h3 align="center">A passionate developer </h3>
 
 - 🌱 I’m currently learning **C#, Java,Python**
 
